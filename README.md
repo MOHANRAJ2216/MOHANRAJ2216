@@ -29,5 +29,4 @@ Economic data analysis, financial trends, and how to interpret datasets for real
 - [mohanrajk360@gmail.com](mailto:mohanraj360@gmail.com)
 - 💬 Connect with me on [LinkedIn](www.linkedin.com/in/mohanraj-k-41a90a316)
 - ⚡ Fun fact:
-> "Economics and Data go hand in hand — one explains why, the other shows how."
--->
+> Economics and Data go hand in hand — one explains why, the other shows how.
